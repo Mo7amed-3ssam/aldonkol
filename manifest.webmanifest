@@ -1,0 +1,20 @@
+{
+  "name": "الدنقل للعقارات - Al Donkol Real Estate",
+  "short_name": "الدنقل",
+  "description": "مشروعات سكنية وتجارية، وحدات للبيع وإعادة البيع والإيجار.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F5",
+  "theme_color": "#0F1C2E",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "1920x1920",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

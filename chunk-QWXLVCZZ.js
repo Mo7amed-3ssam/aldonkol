@@ -1,0 +1,1 @@
+var e={production:!1,siteUrl:"http://localhost:4200",firebase:{apiKey:"AIzaSyBSy2dphB3Ojs6Y0QacblE8h9IdnuJUvEk",authDomain:"aldonkol-d51f7.firebaseapp.com",projectId:"aldonkol-d51f7",storageBucket:"aldonkol-d51f7.firebasestorage.app",messagingSenderId:"487048854328",appId:"1:487048854328:web:56e8f2b1aa7f69b8fd9fcd",measurementId:"G-DC5H6JZ8H2"}};export{e as a};

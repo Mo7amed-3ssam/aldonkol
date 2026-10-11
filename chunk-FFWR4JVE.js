@@ -1,0 +1,1 @@
+import{g as t}from"./chunk-VN2LUZUG.js";function o(r,e){return r===void 0||Number.isNaN(r)?"":`${new Intl.NumberFormat(e==="ar"?"ar-EG":"en-EG",{maximumFractionDigits:0}).format(r)} ${t}`}export{o as a};
